@@ -56,15 +56,15 @@ export default function About() {
             <ul className="space-y-4">
               <li>
                 <h3 className="text-lg font-medium text-gray-700">E-commerce Platform</h3>
-                <p>Developed a full-featured e-commerce website, increasing client sales by 30% in the first quarter of launch.</p>
+                <p>Developed a full-featured e-commerce website, increasing client sales by 18% in the first quarter of launch.</p>
               </li>
               <li>
                 <h3 className="text-lg font-medium text-gray-700">Content Management System</h3>
-                <p>Created a bespoke CMS for a publishing company, improving content update efficiency by 50%.</p>
+                <p>Created a bespoke CMS for a publishing company, improving content update efficiency by 15%.</p>
               </li>
               <li>
                 <h3 className="text-lg font-medium text-gray-700">Responsive Redesign</h3>
-                <p>Led the responsive redesign of a corporate website, boosting mobile traffic by 25%.</p>
+                <p>Led the responsive redesign of a corporate website, boosting mobile traffic by 10%.</p>
               </li>
             </ul>
           </section>
